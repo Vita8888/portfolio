@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Kelma Sousa Góis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Kelma Sousa Góis</h1>
+        <p>Rua da Prata, chácara 350, casa 39, Residencial Luiz Fortine, Bairro: Novo Mundo, GO</p>
+        <p>Rua 12, Casa 3, Setor Ferrovia, Estreito, MA</p>
+        <p>Telefone: (99) 98406-0574 / (62) 98309-1060</p>
+        <p>E-mail: est.kelmagois@gmail.com</p>
+    </header>
+    
+    <section>
+        <h2>Objetivo</h2>
+        <p>Busco uma oportunidade de trabalho na área de engenharia civil ou segurança do trabalho, com interesse em posições home office, híbridas ou presenciais. Desejo continuar desenvolvendo minhas habilidades e contribuir para a construção de grandes resultados no meu ambiente de trabalho.</p>
+    </section>
+    
+    <section>
+        <h2>Resumo Profissional</h2>
+        <p>Formação em Engenharia Civil e Administração de Empresas com Pós-Graduação em áreas como higiene ocupacional, segurança do trabalho, infraestrutura, estrada e pavimentação.</p>
+        <p>Experiência em construção e averiguação de edificações, equipamentos de segurança urbanos e rurais, e serviços.</p>
+        <p>Competências em projetar, analisar e avaliar técnicas e obras relacionadas ao saneamento urbano e rural.</p>
+        <p>Habilidade na emissão de relatórios, mapas de risco, pareceres técnicos e laudos periciais.</p>
+        <p>Vivência em procedimentos de segurança como eliminação de ruídos, calor, poeira, vibração, e avaliação ergonômica.</p>
+    </section>
+    
+    <section>
+        <h2>Formação Acadêmica</h2>
+        <ul>
+            <li>IPOG: Pós-Graduação em Licitações e Contratos Administrativos (Cursando)</li>
+            <li>USP – SP: Pós-Graduação em Higiene Ocupacional (Concluído)</li>
+            <li>IPOG: Pós-Graduação em Infraestrutura, Estradas e Pavimentações (Concluído)</li>
+            <li>Faculdade Araguaia: Pós-Graduação em Engenharia em Segurança do Trabalho (Concluído)</li>
+            <li>PUC – Goiás: Engenharia Civil (Concluído)</li>
+            <li>Faculdade Ávila: Administração de Empresas – Gestão de Negócios (Concluído)</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Idiomas</h2>
+        <p>Espanhol: Fluente</p>
+    </section>
+    
+    <section>
+        <h2>Experiência Profissional</h2>
+        <h3>Terramata Ltda.</h3>
+        <p>Função: Chefe do Departamento de Engenharia</p>
+        <p>Período: 08/2017 a 03/2021</p>
+        <p>Atribuições:</p>
+        <ul>
+            <li>Gestão de processos de licitações desde a habilitação até a proposta de preços.</li>
+            <li>Coordenação de serviços de infraestrutura urbana e rodoviária.</li>
+            <li>Orientação e coordenação do sistema de segurança do trabalho, investigação de riscos e causas de acidentes.</li>
+            <li>Elaboração de PPRA, PCMAT e avaliações ambientais.</li>
+            <li>Suporte ao software de gestão ocupacional e perícias de acidente de trabalho.</li>
+        </ul>
+
+        <h3>TRT 18 e TRT 16</h3>
+        <p>Função: Perita Judicial</p>
+        <p>Período: 2017 a 2021</p>
+        <p>Atribuições:</p>
+        <ul>
+            <li>Realização de perícias trabalhistas.</li>
+        </ul>
+
+        <h3>SMO – Serviço de Medicina Ocupacional</h3>
+        <p>Função: Engenheira de Segurança do Trabalho</p>
+        <p>Período: 01/2017 a 08/2017</p>
+        <p>Atribuições:</p>
+        <ul>
+            <li>Inspeções e auditorias de segurança.</li>
+            <li>Elaboração de PPRA, PCMAT e avaliações ambientais.</li>
+            <li>Formação de CIPA e execução de perícias trabalhistas.</li>
+        </ul>
+
+        <h3>Santa Izabel Alimentos</h3>
+        <p>Função: Engenheira de Segurança do Trabalho</p>
+        <p>Período: 10/2023 a 06/2024</p>
+        <p>Atribuições:</p>
+        <ul>
+            <li>Identificação e avaliação de riscos nos ambientes de trabalho.</li>
+            <li>Implementação de medidas de controle de riscos físicos, químicos e biológicos.</li>
+            <li>Desenvolvimento de políticas de segurança e conformidade com legislações.</li>
+            <li>Condução de treinamentos de segurança e capacitação de equipes.</li>
+            <li>Realização de inspeções e auditorias de segurança.</li>
+            <li>Avaliação ergonômica e gestão de EPIs.</li>
+            <li>Desenvolvimento de planos de emergência e análise de acidentes.</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Cursos</h2>
+        <ul>
+            <li>Higiene Ocupacional (APEJUST- GO)</li>
+            <li>Revit 2015 (KILDERE)</li>
+            <li>Perícias (CDL)</li>
+            <li>Avaliações de Imóveis (NÚCLEO EXPERTISE)</li>
+            <li>Projeto de Combate a Incêndio (ELAINE GONÇALVES)</li>
+            <li>Pacote Office</li>
+            <li>Normas Regulamentadoras: NR 07, 23, 34, 10, 12, 33, 35</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Organização</li>
+            <li>Comunicação</li>
+            <li>Iniciativa</li>
+            <li>Flexibilidade</li>
+            <li>Responsabilidade</li>
+            <li>Disciplina</li>
+            <li>Trabalho em Equipe</li>
+            <li>Bom Relacionamento Interpessoal</li>
+        </ul>
+    </section>
+</body>
+</html>
